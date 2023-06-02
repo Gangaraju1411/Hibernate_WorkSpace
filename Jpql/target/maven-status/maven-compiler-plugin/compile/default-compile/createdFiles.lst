@@ -1,0 +1,5 @@
+Hibernate\Jpql\Tester.class
+Hibernate\Jpql\EmployeeDAO.class
+Hibernate\Jpql\Constants.class
+Hibernate\Jpql\Entity.class
+Hibernate\Jpql\Impl.class
